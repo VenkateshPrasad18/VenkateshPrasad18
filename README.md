@@ -5,13 +5,13 @@
 
 - 🔭 Posting JS Codes **Interview coding quetions**
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **SQL,PowerBI**
 
-- 👯 Generating Portfolios using AI **.**
+- 👯 Generating Portfolios using  **AI**
 
 - 👨‍💻 Generate GitHub Profile like me [https://rahuldkjain.github.io/gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 
-- 💬 Ask About any queries in **Automation with Cypress,Javascript and Manual Testing**
+- 💬 Ask About any queries in **Automation with Cypress, Playwright,Javascript and Manual Testing**
 
 - 📫 reach out **venkateshprasad.qa@gmail.com**
 
